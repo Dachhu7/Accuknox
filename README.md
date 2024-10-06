@@ -21,7 +21,7 @@ python manage.py migrate
 
 ## Test this
 ```bash
-- python manage.py test
+python manage.py test
 ```
 
 ### Python Custom Rectangle Class
